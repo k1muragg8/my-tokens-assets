@@ -2,27 +2,5 @@
   "name": "K1mura",
   "symbol": "KMC",
   "description": "This is the official community coin for the K1mura ecosystem.",
-  "image": "https://raw.githubusercontent.com/k1muragg8/my-tokens-assets/main/images/0.png",
-  "tags": ["community-token", "governance", "social-token", "web3"],
-  "external_url": "https://www.your-project-website.com",
-  "extensions": {
-    "twitter": "https://twitter.com/YourProjectHandle",
-    "discord": "https://discord.gg/YourInviteCode",
-    "telegram": "https://t.me/YourChannel",
-    "medium": "https://medium.com/@YourPublication"
-  },
-  "attributes": [
-    {
-      "trait_type": "Token Standard",
-      "value": "SPL"
-    },
-    {
-      "trait_type": "Launch Year",
-      "value": "2025"
-    },
-    {
-      "trait_type": "Category",
-      "value": "Community"
-    }
-  ]
+  "image": "https://raw.githubusercontent.com/k1muragg8/my-tokens-assets/main/images/0.png"
 }
